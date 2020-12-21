@@ -1,2 +1,3 @@
 -----BEGIN DSA PRIVATE KEY-----
+-----BEGIN RSA PRIVATE KEY-----
 TEsting
